@@ -29,7 +29,7 @@ pipeline {
                 sh '''
                 docker stop jenkins-hello-world || true
                 docker rm jenkins-hello-world || true
-                docker run -d -p 3000:3000 --name jenkins-hello-world jenkins-hello-world
+                docker run -d -p 4000:4000 --name jenkins-hello-world jenkins-hello-world
                 '''
             }
         }
