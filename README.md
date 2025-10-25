@@ -1,4 +1,4 @@
-# Jenkins CI/CD Internship Task: Hello World App
+# Jenkins CI/CD Internship Task2: Hello World App
 
 ## Project Overview
 
